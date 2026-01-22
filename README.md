@@ -11,7 +11,7 @@ Saves data using local storage.
 ## How to run the project 
 
 1. clone the repository
- git clone <> 
+ git clone https://github.com/arorayati/todo-list-app.git 
 
  2. go to project 
  cd To-do app
